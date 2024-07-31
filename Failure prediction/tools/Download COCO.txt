@@ -1,0 +1,2 @@
+Use yolov3-cpu environment in anaconda promt to download COCO dataset: wget -c http://images.cocodataset.org/zips/val2014.zip
+Then use the filtered annotation and create_tfrecord.py script to make a TFRecord file dataset.
